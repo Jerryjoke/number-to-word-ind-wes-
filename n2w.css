@@ -1,0 +1,48 @@
+body{
+	background-color: #FFE77AFF;
+}
+.nav #nav-text{
+	color: black !important; 
+	font-size: 45px;
+	letter-spacing: 3px;
+	font-family: 'Brush Script MT', cursive;
+}
+.container .row{
+	position: absolute;
+	top: 50%; 
+}
+#btn1{
+	position: absolute;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 22px;
+	left: 100px;
+}
+#btn2{
+	position: absolute;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 22px;
+	left: 800px;
+}
+.form-group #formtext{
+	position: absolute;
+	top: 30%;
+	width: 35%;
+	left: 32%;
+	border: 2px solid black;
+}
+#formarea{
+	position: absolute;
+	top: 49%;
+	width: 35%;
+	height: 20%;
+	left: 32%;
+	border: 2px solid black;
+}
+#btn4{
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 22px;
+}
+
